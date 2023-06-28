@@ -1,0 +1,2 @@
+# SearchandSort
+ This code creates two arrays of 20 student objects each, and populates the first array with student names. It then copies the first array into the second array. Both arrays are printed out. Insertion sort is then run on the first array, sorting it by the first name of each student. Selection sort is then run on the second array, sorting it by last name. The user is then asked to search for a student. Linear search and binary search are then run on the first array of students to locate the requested student.
